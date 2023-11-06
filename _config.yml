@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Angela Orebaugh"
-  avatar           : "bio-photo-2.jpg" #"AO_UVA_500_300.jpg"
+  avatar           : "AO_UVA_500_300.jpg"
   bio              : "Assistant Professor | Cybersecurity | Data | Sustainability | Environmentalist |    Inspiring you to save the world"
   location         : "Charlottesville, VA"
   employer         : "University of Virginia"
