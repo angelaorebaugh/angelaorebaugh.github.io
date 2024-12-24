@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Hello!"
+title: "What!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<i>"Our relationship with technology shapes our attention and awareness. Mindfulness helps us cultivate digital well-being, turning our tools into resources for clarity, presence, and intentional living."</i>
 
 Welcome to my page.  Let's save the world together, bit-by-bit.
 
