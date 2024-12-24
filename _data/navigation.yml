@@ -15,8 +15,8 @@ main:
  # - title: "Posts"
   #  url: /year-archive/
     
-  - title: "DWELL Lab"
-    url: /dwell_lab/
+  - title: "DWELL"
+    url: /dwell/
     
   - title: "CV"
     url: /cv/
