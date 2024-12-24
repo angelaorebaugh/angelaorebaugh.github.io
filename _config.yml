@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Dr. Angela Orebaugh"
   avatar           : "AO_UVA_500_300.jpg"
-  bio              : "Associate Professor <br> Inspiring you to save the world, bit-by-bit"
+  bio              : "Associate Professor <br> Saving the world, bit-by-bit"
   location         : "Charlottesville, VA"
   employer         : "University of Virginia"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=aiI32MEAAAAJ&hl=en&oi=ao"
   email            : "angelao@virginia.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : 
+  uri              : "https://bsky.app/profile/aorebaugh.bsky.social"
   bitbucket        :
   codepen          :
   dribbble         :
