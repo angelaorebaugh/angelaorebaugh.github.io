@@ -82,39 +82,39 @@ analytics:
 author:
   name             : "Dr. Angela Orebaugh"
   avatar           : "AO_UVA_500_300.jpg"
-  bio              : "Associate Professor | Inspiring you to save the world, bit-by-bit"
+  bio              : "Associate Professor" <br> "Inspiring you to save the world, bit-by-bit"
   location         : "Charlottesville, VA"
   employer         : "University of Virginia"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=aiI32MEAAAAJ&hl=en&oi=ao"
   email            : "angelao@virginia.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : "https://bsky.app/profile/aorebaugh.bsky.social" # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              : "https://bsky.app/profile/aorebaugh.bsky.social"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
+  foursquare       : "https://bsky.app/profile/aorebaugh.bsky.social"
   github           : "angelaorebaugh"
-  google_plus      :
-  keybase          :
-  instagram        :
+  google_plus      : "https://bsky.app/profile/aorebaugh.bsky.social"
+  keybase          : "https://bsky.app/profile/aorebaugh.bsky.social"
+  instagram        : "https://bsky.app/profile/aorebaugh.bsky.social"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  lastfm           : "https://bsky.app/profile/aorebaugh.bsky.social"
+  linkedin         : 
   orcid            : "http://orcid.org/0000-0001-7676-681X"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "https://bsky.app/profile/aorebaugh.bsky.social"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        : "https://bsky.app/profile/aorebaugh.bsky.social"
+  pinterest        : "https://bsky.app/profile/aorebaugh.bsky.social"
+  soundcloud       : "https://bsky.app/profile/aorebaugh.bsky.social"
+  stackoverflow    : "https://bsky.app/profile/aorebaugh.bsky.social" # http://stackoverflow.com/users/123456/username
+  steam            : "https://bsky.app/profile/aorebaugh.bsky.social"
+  tumblr           : "https://bsky.app/profile/aorebaugh.bsky.social"
+  twitter          : 
+  vine             : "https://bsky.app/profile/aorebaugh.bsky.social"
+  weibo            : "https://bsky.app/profile/aorebaugh.bsky.social"
+  xing             : "https://bsky.app/profile/aorebaugh.bsky.social"
+  youtube          : "https://bsky.app/profile/aorebaugh.bsky.social"
+  wikipedia        : 
   bluesky          : "https://bsky.app/profile/aorebaugh.bsky.social"
 
 
