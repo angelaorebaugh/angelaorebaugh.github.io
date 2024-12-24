@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "What!"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-<i>"Our relationship with technology shapes our attention and awareness. Mindfulness helps us cultivate digital well-being, turning our tools into resources for clarity, presence, and intentional living."</i>
+<i>"Our relationship with technology shapes our attention and awareness. Mindfulness helps us cultivate digital well-being, turning our tools into resources for clarity, presence, and intentional living." - Dr. Angela Orebaugh</i>
 
-Welcome to my page.  Let's save the world together, bit-by-bit.
+ssociate Professor in the Engineering School's Computer Science Department at the University of Virginia, where she focuses on the intersection of technology, mindfulness, and digital well-being. As a passionate advocate for integrating contemplative practices into technology use, she is partnered with UVA's Contemplative Science Center and serves as the editor of the Contemplation + Technology special edition of the Journal for Contemplative Studies. Angela is developing a course titled Human-Centered Computing for Digital Well-Being, which explores how mindful engagement with technology can promote clarity, presence, and intentional living in the digital age.
 
+Angela's work in digital well-being builds on her extensive background in cybersecurity. Prior to academia, she spent over 25 years in the industry, providing cybersecurity expertise to clients such as the National Institute of Standards and Technology (NIST), the Department of Defense (DoD), intelligence agencies, small businesses, and start-ups. Her mission in academia is to leverage her industry experience to create exceptional learning opportunities for students, equipping them with the skills needed to navigate the cyber world safely and securely.
+
+Angela completed her Ph.D. at George Mason University’s Volgenau School of Engineering, with published papers in behavioral biometrics, data mining, authorship analysis, and cyber forensics. She holds a Master of Science in Computer Science from James Madison University and a Master of Liberal Arts in Sustainability from Harvard University, focusing on technology-driven sustainability. She has taught cybersecurity at George Mason University, Berkeley, Penn State, and the University of Virginia. Angela is the author of six technology books, over thirty published articles, and co-author of seven NIST publications. Her professional service includes roles on the International Journal of Internet of Things and Cyber-Assurance Editorial Board, UVA Public Interest Technology University Network (PIT-UN) Steering Committee, UVA Women in Cybersecurity (WiCyS) faculty advisor, and the Virginia Cyber Range Executive Committee.  
+
+Let's save the world together, bit-by-bit.
+
+<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -48,7 +55,7 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-
+-->
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
