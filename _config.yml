@@ -66,9 +66,9 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Something # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:  "https://bsky.app/profile/aorebaugh.bsky.social"  # An array of links to social media profiles
 
 
 # Analytics
@@ -85,7 +85,7 @@ author:
   bio              : "Associate Professor <br> Saving the world, bit-by-bit"
   location         : "Charlottesville, VA"
   links:
-    - label: "Made Mistakes"
+      label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
       url: "https://mademistakes.com"
   employer         : "University of Virginia"
