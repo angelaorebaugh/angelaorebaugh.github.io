@@ -56,6 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+bluesky:
+  username               : "bsky.app/profile/aorebaugh.bsky.socia"
 twitter:
   username               : &twitter
 facebook:
@@ -91,6 +93,7 @@ author:
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://bsky.app/profile/aorebaugh.bsky.social"
   bitbucket        :
+  bluesky          : "bsky.app/profile/aorebaugh.bsky.socia"
   codepen          :
   dribbble         :
   flickr           :
