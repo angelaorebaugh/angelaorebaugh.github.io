@@ -1,14 +1,27 @@
 ---
 layout: archive
-title: "Publications and Talks"
+title: "Selected Publications and Talks"
 permalink: /publications/
 author_profile: true
 ---
 
 <h2>Hello? How Scammers Use AI to Impersonate People and Steal Your Money</h2>
 
-Orebaugh, Angela. (2024). "Hello? How Scammers Use AI to Impersonate People and Steal Your Money." Thoughts from the Lawn. Office of Engagement. University of Virigia.
-<a href="https://doi.org/10.1093/isq/sqae094"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+Orebaugh, Angela. (2024). "Hello? How Scammers Use AI to Impersonate People and Steal Your Money." <i>Thoughts from the Lawn.</i> Office of Engagement. University of Virigia.
+<a href="https://engagement.virginia.edu/learn/thoughts-from-the-lawn/20240409-Orebaugh"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+
+<h2>U.S. Cyber Range Cyber Summet for Student Success Panel</h2>
+
+Orebaugh, Angela, et al. (2024). "Cyber Summet for Student Success Panel." <i>U.S. Cyber Range.</i>
+<a href="https://www.youtube.com/watch?v=hqhAVB1gmgU"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+
+<h2>Virginia Cyber Navigator Internship Program (VA-CNIP): Service Learning in Local Election Security</h2>
+
+Orebaugh, Angela, et al. (2023). "Virginia Cyber Navigator Internship Program (VA-CNIP): Service Learning in Local Election Security." <i>Journal of The Colloquium for Information Systems Security Education</i>, Volume 10, No. 1.
+<a href="https://doi.org/10.53735/cisse.v10i1.175"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="/files/pdf/research/They're Still Here.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+
+
 
 
 <!--
