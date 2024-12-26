@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div class="archive"><h1 class="page__title">CV</h1><iframe src="/files/Orebaugh_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe><p>You can download a PDF copy of my CV <a href="/files/Orebaugh_CV.pdf">here</a>.</p></div>
+<iframe src="/files/Orebaugh_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe><p>You can download a PDF copy of my CV <a href="/files/Orebaugh_CV.pdf">here</a>.</p>
 
 <!--
 {% include base_path %}
