@@ -19,10 +19,18 @@ Orebaugh, Angela, et al. (2024). "Cyber Summet for Student Success Panel." <i>U.
 
 Orebaugh, Angela, et al. (2023). "Virginia Cyber Navigator Internship Program (VA-CNIP): Service Learning in Local Election Security." <i>Journal of The Colloquium for Information Systems Security Education</i>, Volume 10, No. 1.
 <a href="https://doi.org/10.53735/cisse.v10i1.175"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-<a href="/files/pdf/research/They're Still Here.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<a href="/files/CISSE_v010_i01_p21.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
+<h2>Cybersecurity: Securing the Election Process</h2>
 
+Orebaugh, Angela. (2022). "Cybersecurity: Securing the Election Process." <i>Lifetime Learning.</i> Office of Engagement. University of Virginia.
+<a href="https://www.youtube.com/watch?v=4nMbgPiT8Qc"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
+<h2>Environmental Justice and Smart Cities</h2>
+
+Orebaugh, Angela. (2022). "Environmental Justice and Smart Cities." Environmental Justice and Resilience in an Age of Uncertainty. <i>Routledge</i>.
+<a href="https://doi.org/10.4324/9781003186076"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="/files/CISSE_v010_i01_p21.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
 <!--
 {% if author.googlescholar %}
