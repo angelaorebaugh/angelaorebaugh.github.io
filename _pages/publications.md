@@ -30,7 +30,7 @@ Orebaugh, Angela. (2022). "Cybersecurity: Securing the Election Process." <i>Lif
 
 Orebaugh, Angela. (2022). "Environmental Justice and Smart Cities." Environmental Justice and Resilience in an Age of Uncertainty. <i>Routledge</i>.
 <a href="https://doi.org/10.4324/9781003186076"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-<a href="/files/CISSE_v010_i01_p21.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<a href="/files/Environmental%20Justice%20and%20Smart%20Cities.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
 <!--
 {% if author.googlescholar %}
