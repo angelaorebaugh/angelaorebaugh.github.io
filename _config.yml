@@ -118,14 +118,8 @@ author:
   xing             : 
   youtube          : 
   wikipedia        : 
-  
 
-links:
-      label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
  
-
 
 # Reading Files
 include:
