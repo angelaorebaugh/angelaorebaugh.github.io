@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-mastodon:
-  username               : "fosstodon.org/@jayrobw"
+bluesky:
+  username               : "bsky.app/profile/aorebaugh.bsky.social"
 twitter:
   username               : &twitter
 facebook:
