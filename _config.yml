@@ -117,6 +117,10 @@ author:
   youtube          : 
   wikipedia        : 
   bluesky          : "https://bsky.app/profile/aorebaugh.bsky.social"
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
 
 
 # Reading Files
