@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This is a test
+This is a another test
 
 <!--
 {% if author.googlescholar %}
