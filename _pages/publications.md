@@ -38,7 +38,11 @@ Jackson, Catherine, Orebaugh, Angela. (2017). "A Study of Security and Privacy I
 <a href="https://doi.org/10.1504/IJITCA.2018.10011257"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <a href="/files/echo.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
+<h2>Environmental Justice and Smart Cities</h2>
 
+Jackson, Catherine, Orebaugh, Angela. (2017). "A Study of Security and Privacy Issues Associated with the Amazon Echo." <i>International Journal of the Internet of Things and Cyber‐Assurance</i>.
+<a href="https://doi.org/10.1504/IJITCA.2018.10011257"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+<a href="/files/echo.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
 
 
