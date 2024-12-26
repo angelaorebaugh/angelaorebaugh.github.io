@@ -66,9 +66,9 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Something # Person or Organization (defaults to Person)
+  type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links:  "https://bsky.app/profile/aorebaugh.bsky.social"  # An array of links to social media profiles
+  links: # An array of links to social media profiles
 
 
 # Analytics
@@ -84,10 +84,6 @@ author:
   avatar           : "AO_UVA_500_300.jpg"
   bio              : "Associate Professor <br> Saving the world, bit-by-bit"
   location         : "Charlottesville, VA"
-  links:
-      label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
   employer         : "University of Virginia"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=aiI32MEAAAAJ&hl=en&oi=ao"
@@ -119,7 +115,11 @@ author:
   xing             : 
   youtube          : 
   wikipedia        : 
-  bluesky          : "https://bsky.app/profile/aorebaugh.bsky.social"
+
+links:
+      label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
  
 
 
