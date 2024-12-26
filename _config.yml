@@ -56,6 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+mastodon:
+  username               : "fosstodon.org/@jayrobw"
 twitter:
   username               : &twitter
 facebook:
@@ -103,6 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : 
   linkedin         : 
+  mastodon         : "fosstodon.org/@jayrobw"
   orcid            : "http://orcid.org/0000-0001-7676-681X"
   pinterest        : 
   soundcloud       : 
@@ -115,6 +118,7 @@ author:
   xing             : 
   youtube          : 
   wikipedia        : 
+  
 
 links:
       label: "Made Mistakes"
