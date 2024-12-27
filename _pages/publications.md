@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>Hello? How Scammers Use AI to Impersonate People and Steal Your Money</h2>
 
-Orebaugh, Angela. (2024). "Hello? How Scammers Use AI to Impersonate People and Steal Your Money." <i>Thoughts from the Lawn.</i> Office of Engagement. University of Virigia.
+Orebaugh, Angela. (2024). "Hello? How Scammers Use AI to Impersonate People and Steal Your Money." <i>Thoughts from the Lawn.</i> Office of Engagement. University of Virginia.
 <a href="https://engagement.virginia.edu/learn/thoughts-from-the-lawn/20240409-Orebaugh"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
 <h2>U.S. Cyber Range Cyber Summit for Student Success Panel</h2>
