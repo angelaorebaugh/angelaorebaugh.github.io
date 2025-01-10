@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
     
   - title: "DWELL"
-    url: /dwell/
+    url: https://dwellcollective.org/
     
   - title: "CV"
     url: /cv/
